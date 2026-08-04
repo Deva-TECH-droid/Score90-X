@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const worldcup_controller_1 = require("./worldcup.controller");
+const router = (0, express_1.Router)();
+router.get('/matches', worldcup_controller_1.getMatchesController);
+router.get('/standings', worldcup_controller_1.getStandingsController);
+router.get('/teams', worldcup_controller_1.getTeamsController);
+router.get('/teams/:id', worldcup_controller_1.getSingleTeamController);
+router.get('/persons/:id', worldcup_controller_1.getPersonController);
+router.get('/matchesDetails/:id', worldcup_controller_1.getMatchDetailsController);
+router.get('/scorers', worldcup_controller_1.getTopScorersController);
+router.get('/player-image', worldcup_controller_1.getPlayerImageController);
+exports.default = router;
