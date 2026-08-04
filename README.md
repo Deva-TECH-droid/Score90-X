@@ -218,11 +218,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Author
 
-**Abu Thahir**
+**Devansh Upadhyay**
+- Portfolio: (https://portfolio-cyan-three-52.vercel.app)
+
 Freelance Creative Frontend Developer & UI/UX Designer
 
-- YouTube: [Flame Code](#)
-- Portfolio: [abu-thahir.vercel.app](https://abu-thahir.vercel.app)
+- client: [Anmol](#)
+
 
 <div align="center">
 
