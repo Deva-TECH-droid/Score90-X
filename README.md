@@ -18,7 +18,7 @@ A full-stack, cinematic sports dashboard delivering live scores, standings, team
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+[Live Demo](https://world-cup-score90-x.vercel.app/) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
 </div>
 
