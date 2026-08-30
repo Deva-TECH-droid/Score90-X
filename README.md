@@ -223,7 +223,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Freelance Creative Frontend Developer & UI/UX Designer
 
-- client: [Anmol](#)
+- client: [Vijay Das](#)
 
 
 <div align="center">
